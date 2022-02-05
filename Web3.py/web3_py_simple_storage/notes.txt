@@ -1,0 +1,8 @@
+ganache local blockchain
+infura.io, alchemy.com remote blockchain services
+
+
+##########
+creating environment
+create .env file and write:
+    export key=value
