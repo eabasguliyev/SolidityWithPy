@@ -3,6 +3,6 @@ infura.io, alchemy.com remote blockchain services
 
 
 ##########
-creating environment
+creating environment variable
 create .env file and write:
     export key=value

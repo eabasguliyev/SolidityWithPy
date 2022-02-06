@@ -51,7 +51,7 @@ private_key = os.getenv("PRIVATE_KEY")
 
 print(private_key)
 
-# Craete the contract in python
+# Create the contract in python
 SimpleStorage = w3.eth.contract(abi = abi, bytecode = bytecode)
 
 # Get the latest transaction
